@@ -1,5 +1,3 @@
-Sure, here's a simplified version of the README.md without the table of contents:
-
 # AI/ML Internship Project
 
 ## Project Overview
