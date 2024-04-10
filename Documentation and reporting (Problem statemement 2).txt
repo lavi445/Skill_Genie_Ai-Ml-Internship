@@ -1,0 +1,32 @@
+# AI/ML Internship Project Documentation
+
+This project involves using machine learning to solve different tasks. The goal is to learn about data analysis, model building, and reporting.
+
+## Steps Involved:
+
+1. **Data Understanding:**
+   - We looked at the data to understand what it contains.
+
+2. **Data Cleaning:**
+   - We fixed any mistakes and made the data easier to work with.
+
+3. **Feature Selection:**
+   - We picked out the most important parts of the data to use in our models.
+
+4. **Model Building:**
+   - We chose the best machine learning techniques for our tasks and trained them.
+
+5. **Model Testing:**
+   - We checked how well our models worked using different measures.
+
+6. **Understanding Results:**
+   - We looked at what the models told us and tried to understand why.
+
+7. **Documentation:**
+   - We wrote down everything we did so others can understand and use our work.
+
+## Results:
+
+- We successfully built models for different tasks.
+- We found some things hard, like dealing with big data.
+- We have ideas for making our models even better in the future.
